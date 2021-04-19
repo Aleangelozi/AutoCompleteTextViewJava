@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView - Java</string>
+
+    <string-array name="Cities">
+        <item>São Paulo</item>
+        <item>Santo André</item>
+        <item>Campinas</item>
+        <item>Curitiba</item>
+
+    </string-array>
+</resources>
